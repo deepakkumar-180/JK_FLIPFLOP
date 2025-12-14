@@ -13,10 +13,12 @@ JK Flip-Flop
 
 JK flip-flop is the modified version of SR flip-flop. It operates with only positive clock transitions or negative clock transitions. The circuit diagram of JK flip-flop is shown in the following figure
 
-image
+<img width="845" height="582" alt="Screenshot 2025-12-14 185421" src="https://github.com/user-attachments/assets/74b90ee4-95d1-4db2-ae04-ad0d69b93906" />
+
 This circuit has two inputs J & K and two outputs Qtt & Qtt’. The operation of JK flip-flop is similar to SR flip-flop. Here, we considered the inputs of SR flip-flop as S = J Qtt’ and R = KQtt in order to utilize the modified SR flip-flop for 4 combinations of inputs. The following table shows the state table of JK flip-flop.
 
-image
+<img width="709" height="463" alt="Screenshot 2025-12-14 185456" src="https://github.com/user-attachments/assets/b9ba86f9-c5e5-40c7-800d-4f00acacab48" />
+
 Here, Qtt & Qt+1t+1 are present state & next state respectively. So, JK flip-flop can be used for one of these four functions such as Hold, Reset, Set & Complement of present state based on the input conditions, when positive transition of clock signal is applied. The following table shows the characteristic table of JK flip-flop. Present Inputs Present State Next State
 
 PROGRAM
@@ -41,9 +43,11 @@ endmodule
 ```
 
 
-RTL LOGIC FOR FLIPFLOPS:
+RTL LOGIC FOR FLIPFLOPS:[gate.pdf](https://github.com/user-attachments/files/24150495/gate.pdf)
 
-TIMING DIGRAMS FOR FLIP FLOPS Uploading unknown.bmp…
+
+TIMING DIGRAMS FOR FLIP FLOPS [waves.pdf](https://github.com/user-attachments/files/24150494/waves.pdf)
+
 
 RESULTS
 
