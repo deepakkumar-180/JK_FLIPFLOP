@@ -46,7 +46,8 @@ endmodule
 RTL LOGIC FOR FLIPFLOPS:[gate.pdf](https://github.com/user-attachments/files/24150495/gate.pdf)
 
 
-TIMING DIGRAMS FOR FLIP FLOPS [waves.pdf](https://github.com/user-attachments/files/24150494/waves.pdf)
+TIMING DIGRAMS FOR FLIP FLOPS [waves1.pdf](https://github.com/user-attachments/files/24163745/waves1.pdf)
+
 
 
 RESULTS
